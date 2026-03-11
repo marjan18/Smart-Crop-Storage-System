@@ -1,1 +1,1 @@
-# Smart Crop Storage Monitoring System
+Smart Crop Storage System
